@@ -1,0 +1,11 @@
+id,question,expected_answer_keywords,expected_pages,category
+1,"What happens if I fail a course?","FR;DX;repeat;core course","28,29,23","factual"
+2,"Can I take a break from my studies?","2 semesters;faculty advisor;approval","49,50","process"
+3,"What is the attendance requirement for summer courses?","80;FR grade","19","factual"
+4,"How do I calculate my CPI?","weighted average;credits;grade points","30,31,32","factual"
+5,"What is the process for re-examination?","II grade;medical;UGAPEC","24,25,29,30","process"
+6,"What is the CGPA requirement to remain in good academic standing?","CPI 8;Category I","20,21","factual"
+7,"What is the capital of France?","REFUSE","","not-in-doc"
+8,"How do I make pasta?","REFUSE","","not-in-doc"
+9,"What is the attendance requirement for regular courses?","80","19","factual"
+10,"What is a Minor degree?","credential;24 credits","51,52","factual"

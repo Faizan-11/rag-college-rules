@@ -1,0 +1,11 @@
+{
+  "total_questions": 10,
+  "genuine_refusals": 3,
+  "judged_successfully": 7,
+  "judge_failures": 0,
+  "retrieval_accuracy": 1.0,
+  "keyword_match_rate": 0.7,
+  "avg_faithfulness": 0.8285714285714285,
+  "avg_relevancy": 0.9285714285714286,
+  "avg_latency_sec": 1.3610000000000002
+}
